@@ -1,0 +1,16 @@
+{
+  "name": "alwaysmusic_02_pmaureira",
+  "version": "1.0.0",
+  "description": "segundo desafio evaluado modulo 7",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pmaureira",
+  "license": "ISC",
+
+  "dependencies": {
+    "pg": "^8.11.5"
+  }  
+}

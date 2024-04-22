@@ -1,0 +1,7 @@
+#ignora el node modules
+node_modules
+
+#ignora los js de prueba xD
+otro.js
+consulta.js
+another.js
